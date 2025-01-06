@@ -51,3 +51,6 @@ The project is a demonstration of my ability to handle real-world data, build pr
 - **Evaluation Metrics**:
   - Evaluated models using RMSE, R-squared, and other relevant performance metrics.
   - Identified the most influential features contributing to students' performance.
+
+## Contact
+For questions or collaboration opportunities, feel free to reach out.
